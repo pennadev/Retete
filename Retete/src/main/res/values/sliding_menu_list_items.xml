@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="list_item_angry_id" type="string" />
+    <item name="list_item_angry_label" type="string">"Acasa"</item>
+    <item name="list_item_angry_icon" type="string">"@drawable/acasa"</item>
+    <item name="list_item_angry_count" type="string">"100"</item>
+    <item name="list_item_basic_id" type="string" />
+    <item name="list_item_basic_label" type="string">"Bauturi"</item>
+    <item name="list_item_basic_icon" type="string">"@drawable/ic_action_emo_basic_holo_light"</item>
+    <item name="list_item_basic_count" type="string">"100"</item>
+    <item name="list_item_cool_id" type="string" />
+    <item name="list_item_cool_label" type="string">"Carne"</item>
+    <item name="list_item_cool_icon" type="string">"@drawable/ic_action_emo_cool_holo_light"</item>
+    <item name="list_item_cool_count" type="string">"100"</item>
+    <item name="list_item_cry_id" type="string" />
+    <item name="list_item_cry_label" type="string">"Dulciuri"</item>
+    <item name="list_item_cry_icon" type="string">"@drawable/ic_action_emo_cry_holo_light"</item>
+    <item name="list_item_cry_count" type="string">"100"</item>
+    <item name="list_item_err_id" type="string" />
+    <item name="list_item_err_label" type="string">"Fripturi"</item>
+    <item name="list_item_err_icon" type="string">"@drawable/ic_action_emo_err_holo_light"</item>
+    <item name="list_item_err_count" type="string">"100"</item>
+    <item name="list_item_evil_id" type="string" />
+    <item name="list_item_evil_label" type="string">"Garnituri"</item>
+    <item name="list_item_evil_icon" type="string">"@drawable/ic_action_emo_evil_holo_light"</item>
+    <item name="list_item_evil_count" type="string">"100"</item>
+    <item name="list_item_kiss_id" type="string" />
+    <item name="list_item_kiss_label" type="string">"Legume"</item>
+    <item name="list_item_kiss_icon" type="string">"@drawable/ic_action_emo_kiss_holo_light"</item>
+    <item name="list_item_kiss_count" type="string">"100"</item>
+    <item name="list_item_laugh_id" type="string" />
+    <item name="list_item_laugh_label" type="string">"Muraturi"</item>
+    <item name="list_item_laugh_icon" type="string">"@drawable/ic_action_emo_laugh_holo_light"</item>
+    <item name="list_item_laugh_count" type="string">"100"</item>
+    <item name="list_item_shame_id" type="string" />
+    <item name="list_item_shame_label" type="string">"Paste"</item>
+    <item name="list_item_shame_icon" type="string">"@drawable/ic_action_emo_shame_holo_light"</item>
+    <item name="list_item_shame_count" type="string">"100"</item>
+    <item name="list_item_tongue_id" type="string" />
+    <item name="list_item_tongue_label" type="string">"Patiserie"</item>
+    <item name="list_item_tongue_icon" type="string">"@drawable/ic_action_emo_tongue_holo_light"</item>
+    <item name="list_item_tongue_count" type="string">"100"</item>
+    <item name="list_item_wink_id" type="string" />
+    <item name="list_item_wink_label" type="string">"Peste"</item>
+    <item name="list_item_wink_icon" type="string">"@drawable/ic_action_emo_wink_holo_light"</item>
+    <item name="list_item_wink_count" type="string">"100"</item>
+    <item name="list_item_wonder_id" type="string" />
+    <item name="list_item_wonder_label" type="string">"Salate"</item>
+    <item name="list_item_wonder_icon" type="string">"@drawable/ic_action_emo_wonder_holo_light"</item>
+    <item name="list_item_wonder_count" type="string">"100"</item>
+</resources>

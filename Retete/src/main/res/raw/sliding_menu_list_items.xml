@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    	<item id="1" name="Aperitive" icon="@drawable/aperitive" />
+		<item id="2" name="Bauturi" icon="@drawable/bauturi" />
+		<item id="3" name="Carne" icon="@drawable/carne" />
+		<item id="4" name="Dulciuri" icon="@drawable/dulciuri" />
+		<item id="5" name="Fripturi" icon="@drawable/fripturi" />
+		<item id="6" name="Garnituri" icon="@drawable/garnituri" />
+		<item id="7" name="Legume" icon="@drawable/legume" />
+		<item id="8" name="Muraturi" icon="@drawable/muraturi" />
+		<item id="9" name="Paste" icon="@drawable/paste" />
+		<item id="10" name="Patiserie" icon="@drawable/patiserie" />
+		<item id="11" name="Peste" icon="@drawable/peste" />
+		<item id="12" name="Salate" icon="@drawable/salate" />
+        <item id="12" name="Sosuri" icon="@drawable/sosuri" />
+        <item id="12" name="Supe" icon="@drawable/salate" />
+		
+</items>

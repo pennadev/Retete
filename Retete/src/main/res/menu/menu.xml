@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/goToWebsite"
+        android:title="@string/menu_goto"
+        android:icon="@drawable/ic_action_web_site"
+        android:orderInCategory="0"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/action_mail"
+        android:title="@string/action_email"
+        android:icon="@drawable/ic_action_email"
+        android:orderInCategory="1"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/menu_about"
+        android:title="@string/menu_about"
+        android:icon="@drawable/ic_action_about"
+        android:orderInCategory="1"
+        android:showAsAction="always" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pressed_rosu">#CC33B5E5</color>
+    <color name="bleu">#663145E5</color>
+    <color name="transparent">#33000000</color>
+    <color name="maro">#615044</color>
+    <color name="purple_light">#a276eb</color>
+    <color name="purple_middle">#8658ce</color>
+    <color name="purple_dark">#6a3ab2</color>
+    <color name="interfata">#E4E4DE</color>
+    <color name="gri">#363636</color>
+    <color name="rosu">#dd2222</color>
+    <color name="verde">#97CA00</color>
+</resources>
