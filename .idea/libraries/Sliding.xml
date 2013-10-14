@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Sliding">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Retete/SlidingMenu/example/src" />
+      <root url="file://$PROJECT_DIR$/Retete/SlidingMenu/library/src" />
+      <root url="file://$PROJECT_DIR$/Retete/SlidingMenu/library/build/source/r/release" />
+      <root url="file://$PROJECT_DIR$/Retete/SlidingMenu/library/build/source/buildConfig/release" />
+      <root url="file://$PROJECT_DIR$/Retete/SlidingMenu/library-maps-support/src" />
+    </SOURCES>
+  </library>
+</component>
